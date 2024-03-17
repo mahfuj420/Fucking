@@ -1,3 +1,3 @@
-__import__("fuck").menu()
+__import__("Fuck").menu()
 except Exception as e:
     exit(str(e))
